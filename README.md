@@ -2,13 +2,11 @@
 
 ## Run - NPM
 
-Run by using npm run dev
+Run by using:
+ npm run dev
 or
-Run by using npm run build
+ npm run build
 
-## Run - Yarn
-
-Run by using yarn vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
