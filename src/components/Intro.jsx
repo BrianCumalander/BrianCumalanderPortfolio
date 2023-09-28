@@ -8,7 +8,7 @@ function Intro() {
 
             <p className="text-sm max-w-xl mb-6 font-bold">
                 
-            I{"'"}m a full-stack developer moving in to the development space. I have over 20 years of experience in field engineering and technical support, leading to customer success.
+            
             I have skills in HTML, CSS, Tailwind, SCSS, JavaScript, TypeScript, Node.JS, React.JS, Vite.js, Express.JS, Recharts.JS, git, gitHub, mySQL, Hooks, and fetching content from API{"'"}s.
             
             </p>
