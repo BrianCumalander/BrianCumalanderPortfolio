@@ -10,7 +10,7 @@ export default [
         title: 'React Movies',
         imgUrl: '/assets/movies.webp',
         stack: ['React', 'CSS', 'JavaScript'],
-        link: 'https://64972b95e442900007a145d6--dapper-movieapp.netlify.app/',
+        link: 'https://briancumalander-movieapp.netlify.app',
     },
 
     {
