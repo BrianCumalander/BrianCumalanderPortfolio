@@ -17,7 +17,7 @@ export default [
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.webp',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://#/',
+        link: 'https://bcumalander.com',
     },
 
 ]
