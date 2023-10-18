@@ -27,8 +27,8 @@ export default [
         title: 'Weather',
         imgUrl: '/assets/weather.webp',
         stack: ['HTML', 'CSS', 'JavaScript'],
-        git: '#',
-        link: '#',
+        git: 'https://github.com/BrianCumalander/weather',
+        link: 'https://briancumalander-weather.netlify.app',
     }
 
 ]
