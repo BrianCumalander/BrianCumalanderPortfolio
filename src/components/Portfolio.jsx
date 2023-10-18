@@ -13,8 +13,9 @@ function Portfolio() {
                         <PortfolioItem
                         imgUrl={project.imgUrl}
                         title={project.title}
-                        stack={project.stack}
+                        git={project.git}
                         link={project.link}
+                        stack={project.stack}
                         />
                     ))}
                 </div>
