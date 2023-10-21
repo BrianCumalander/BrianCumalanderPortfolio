@@ -3,8 +3,8 @@
 function Contact() {
     return(
 
-        <>
-            <h1 className='flex flex-col md:flex-row items-center justify-center text-base md:text-xl mb-6 font-medium'>Contact</h1>
+        <div  id="contact">
+            <h1 className='flex flex-col md:flex-row items-center justify-center text-base md:text-xl mb-6 font-medium' id="contact">Contact</h1>
         <div className="flex flex-col mb-20 mx-auto">
             <div className="flex justify-center">
                 <form 
@@ -35,7 +35,7 @@ function Contact() {
                     </form>
             </div>
         </div>
-        </>
+        </div>
     )
 }
 
