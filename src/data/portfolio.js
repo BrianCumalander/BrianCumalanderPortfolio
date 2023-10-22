@@ -12,7 +12,7 @@ export default [
         imgUrl: '/assets/tomatoes.webp',
         stack: ['HTML', 'CSS', 'PHP', 'MySQL'],
         git: 'https://github.com/BrianCumalander/tomatoes',
-
+        link: 'https://github.com/BrianCumalander/tomatoes',
     },
 
     {
@@ -28,7 +28,7 @@ export default [
         imgUrl: '/assets/weather.webp',
         stack: ['HTML', 'CSS', 'JavaScript'],
         git: 'https://github.com/BrianCumalander/weather',
-        link: 'https://briancumalander-weather.netlify.app',
+        link: 'https://github.com/BrianCumalander/weather',
     }
 
 ]
