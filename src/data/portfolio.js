@@ -3,6 +3,7 @@ export default [
         title: 'React Movies',
         imgUrl: '/assets/movies.webp',
         stack: ['React', 'CSS', 'JavaScript'],
+<<<<<<< HEAD
         git: 'https://github.com/BrianCumalander/react-movie-db',
         link: 'https://briancumalander-react-movie-db.netlify.app',
     },
@@ -13,12 +14,16 @@ export default [
         stack: ['HTML', 'CSS', 'PHP', 'MySQL'],
         git: 'https://github.com/BrianCumalander/tomatoes',
 
+=======
+        link: 'https://briancumalander-movieapp.netlify.app',
+>>>>>>> 222113466d4cb1db00e9860bbadd69623d096a1d
     },
 
     {
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.webp',
         stack: ['React', 'Tailwind', 'Vite'],
+<<<<<<< HEAD
         git: 'https://github.com/BrianCumalander/BrianCumalanderPortfolio',
         link: 'https://bcumalander.com',
     },
@@ -32,3 +37,9 @@ export default [
     }
 
 ]
+=======
+        link: 'https://bcumalander.com',
+    },
+
+]
+>>>>>>> 222113466d4cb1db00e9860bbadd69623d096a1d
