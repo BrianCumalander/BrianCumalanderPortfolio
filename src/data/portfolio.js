@@ -20,7 +20,7 @@ export default [
         imgUrl: '/assets/portfolio.webp',
         stack: ['React', 'Tailwind', 'Vite'],
         git: 'https://github.com/BrianCumalander/BrianCumalanderPortfolio',
-        link: 'https://bcumalander.com',
+        link: 'https://bcumalander.com/',
     },
 
     {
