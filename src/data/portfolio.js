@@ -13,10 +13,7 @@ export default [
         imgUrl: '/assets/tomatoes.webp',
         stack: ['HTML', 'CSS', 'PHP', 'MySQL'],
         git: 'https://github.com/BrianCumalander/tomatoes',
-
-=======
-        link: 'https://briancumalander-movieapp.netlify.app',
->>>>>>> 222113466d4cb1db00e9860bbadd69623d096a1d
+        link: 'https://github.com/BrianCumalander/tomatoes',
     },
 
     {
@@ -25,7 +22,7 @@ export default [
         stack: ['React', 'Tailwind', 'Vite'],
 <<<<<<< HEAD
         git: 'https://github.com/BrianCumalander/BrianCumalanderPortfolio',
-        link: 'https://bcumalander.com',
+        link: 'https://bcumalander.com/',
     },
 
     {
@@ -33,13 +30,7 @@ export default [
         imgUrl: '/assets/weather.webp',
         stack: ['HTML', 'CSS', 'JavaScript'],
         git: 'https://github.com/BrianCumalander/weather',
-        link: 'https://briancumalander-weather.netlify.app',
+        link: 'https://github.com/BrianCumalander/weather',
     }
 
 ]
-=======
-        link: 'https://bcumalander.com',
-    },
-
-]
->>>>>>> 222113466d4cb1db00e9860bbadd69623d096a1d

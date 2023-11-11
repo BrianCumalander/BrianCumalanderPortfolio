@@ -1,0 +1,33 @@
+1. Resume DONEish --linked in, can download the resume and submit. needing to update the portfolio and then add it to my resume.
+2. Portfolio
+
+1. review portfolio so I know
+it by heart
+2. LeetCode.com
+3. Apply for jobs
+
+
+
+issues w/ portfolio site:
+on resize, boxes need at least a 10px margin. they have none.
+'View Code' buttons and form submission colors DO NOT MATCH in color or style.
+portfolio box images zoom when window is resized. I don't know how to adjust them to lock to the top of the image--even while resizing.
+--Weather doesn't work, so far now, I could either make it non-clickable like Tomatoes, and I could also implement a turnary opperator to change the cursor for hand-pointer for 'is there a url?-yes' or 'no their's not', don't change the pointer. Or I could leave the poiners alone and do like what's in movies and do a 'dim the box' if the url is avalible.
+
+
+resources that I'm copying after:
+https://chrischindev.com/assets/ChrisChinResume.pdf and his website
+https://github.com/michalosman#-technologies--tools
+
+portfolio items that need work:
+
+Weather:
+decided it's too much work to seperately host the weather. the api key is too hard to setup without using react.
+So I'm creating a seperate page within the portfolio site.
+The whole page should be centered and maybe given some vh to keep it sort of centered in the page while the user is building the search history that displays below it. Oh, maybe b/c the history list is on the right, it could go in to a scroller that is only like 100 lines in height before it starts scrolling. OR, move the results to the right and put the list under the search bar. It can scroll infinatly if the user wants. And when the screen is resized to mobile, the imediate results go under the search, and the history goes under the results.
+
+movies:
+-once a movie is opened up, currently the iimage highlights on mouse-over, but the image doesnt do anything, so I need to disable this. The flow is wrong.
+-I as a user would like to click on an actor and see other movies that they are in. It could be treated as a search and I could re-use the search components.
+-I as a user don't see the point in this site. I really want to watch a preview. Maybe I could link it to Apple Previews, or maybe 'the movie db' api has a free feature to do this.
+

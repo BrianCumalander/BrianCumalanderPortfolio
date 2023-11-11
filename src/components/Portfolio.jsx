@@ -3,7 +3,7 @@ import PortfolioItem from './PortfolioItem'
 
 function Portfolio() {
     return(
-    <>
+    <div id="portfolio">
         <h1 className='flex flex-col md:flex-row items-center justify-center text-base md:text-xl mb-6 font-medium'>Portfolio</h1>
             <div className='flex flex-col md:flex-row items-center justify-center'> 
             
@@ -20,8 +20,8 @@ function Portfolio() {
                     ))}
                 </div>
             </div>
-        </>
+        </div>
     )
 }
-
+ 
 export default Portfolio
