@@ -3,7 +3,6 @@ export default [
         title: 'React Movies',
         imgUrl: '/assets/movies.webp',
         stack: ['React', 'CSS', 'JavaScript'],
-<<<<<<< HEAD
         git: 'https://github.com/BrianCumalander/react-movie-db',
         link: 'https://briancumalander-react-movie-db.netlify.app',
     },
@@ -20,7 +19,6 @@ export default [
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.webp',
         stack: ['React', 'Tailwind', 'Vite'],
-<<<<<<< HEAD
         git: 'https://github.com/BrianCumalander/BrianCumalanderPortfolio',
         link: 'https://bcumalander.com/',
     },
