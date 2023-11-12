@@ -22,7 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-#future add ons.txt
-.env
-issuesIranInto.md
