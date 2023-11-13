@@ -3,8 +3,8 @@ import Footer from "../components/Footer";
 
 function Weather() {
     return (
-        <div className="Weather">
-            
+        <div className="h-screen flex justify-center items-center">
+            <h1>Weather</h1>
             <Footer />
         </div>
     )
