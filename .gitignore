@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-#future add ons.txt
+future add ons.txt
 .env
 issuesIranInto.md
