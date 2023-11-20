@@ -5,7 +5,8 @@ function Contact() {
 
         <>
             <h1 className='flex flex-col md:flex-row items-center justify-center text-base md:text-xl mb-6 font-medium'>Contact</h1>
-        <div className="flex flex-col mb-20 mx-auto">
+        {/* <div className="flex flex-col mb-20 mx-auto"> */}
+        <div className="flex flex-col md:flex-row items-center justify-center">
             <div className="flex justify-center">
                 <form 
                     action="https://getform.io/f/e1276ff9-2210-4448-93eb-5426d2067fb0"
