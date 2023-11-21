@@ -13,6 +13,7 @@ function PortfolioItem({ title, imgUrl, stack, link, git }) {
             <div className="w-full p-4">
                 <h3 className="text-lg md:text-xl mb-2 md:mb-3 fot-semibold"><a href={link} target="_blank" rel="noreferrer">{title}</a></h3>
                 <span className="inline-block px-3 py-1 my-2 font-semibold border-2 border-stone-900 rounded-md text-black bg-yellow-500 hover:bg-cyan-600">  
+                        <h6>{}</h6>
                         <h6><a href={git} target="_blank" rel="noreferrer">View Code </a></h6>
                 </span>
                 
