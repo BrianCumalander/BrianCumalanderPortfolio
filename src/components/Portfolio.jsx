@@ -1,6 +1,8 @@
 import portfolio from '../data/portfolio'
 import PortfolioItem from './PortfolioItem'
 
+// Loops through using .map to display the PortfolioItem, and passes the data from portfolio.js in to it.
+
 function Portfolio() {
     return(
     <div id="portfolio">
