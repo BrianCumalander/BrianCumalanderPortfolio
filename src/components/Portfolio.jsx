@@ -1,7 +1,8 @@
 import portfolio from '../data/portfolio'
 import PortfolioItem from './PortfolioItem'
 
-// Loops through using .map to display the PortfolioItem, and passes the data from portfolio.js in to it.
+// Loops through portfolio.js to display each project, also passing data fields.
+// Display formatting of the cards including margins is done here as well.
 
 function Portfolio() {
     return(
