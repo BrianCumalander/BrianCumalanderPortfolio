@@ -19,7 +19,7 @@ function PortfolioItem({ title, imgUrl, stack, link, git }) {
                 <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm">
                     {stack?.map(item => (
                     // eslint-disable-next-line react/jsx-key
-                    <span className="inline-block px-2 py-1 font-semibold border-2 border-stone-900 rounded-md">
+                    <span className="inline-block px-2 py-1 font-light border border-stone-900 rounded-md">
                         {item}
                     </span>
                     ))}
