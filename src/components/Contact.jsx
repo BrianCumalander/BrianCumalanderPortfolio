@@ -50,14 +50,14 @@ function Contact() {
              <form
                 action="https://getform.io/f/e1276ff9-2210-4448-93eb-5426d2067fb0"
                 method="POST"
-                className="flex flex-col w-full md:w-7/12"
-             >
+                className="flex flex-col w-full md:w-7/12">
+                    
                 <h1>Contact</h1>
                 <input
                    type="text"
                    name="name"
                    placeholder="Name"
-                   className="p-2 bg-transparent border-2 rounded-md focus:outline-"
+                   className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
                 />
                 <input
                    type="text"
