@@ -8,7 +8,7 @@ import PortfolioItem from './PortfolioItem'
 function Portfolio() {
     return(
     <div id="portfolio">
-        <h1 className='flex flex-col md:flex-row items-center justify-center text-base md:text-xl mb-6 font-medium'>Portfolio</h1>
+        <h1 className='flex flex-col md:flex-row items-center justify-center text-base md:text-xl mb-16 mt-10 font-medium'>Portfolio</h1>
             <div className='flex flex-col md:flex-row md:m-3 items-center justify-center m-3'> 
             
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
