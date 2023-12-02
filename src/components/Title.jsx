@@ -1,6 +1,6 @@
 
 
-function Footer() {
+function Title() {
     return (
         <div className="py-5 text-center">
            {/* social icons*/}
@@ -10,4 +10,4 @@ function Footer() {
     )
 }
 
-export default Footer
+export default Title
