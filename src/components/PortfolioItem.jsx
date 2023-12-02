@@ -20,7 +20,8 @@ function PortfolioItem({ title, imgUrl, stack, link, git }) {
     {/* ### Project title which also takes you to the live project (link) ### */}
                 <h3 className="text-lg md:text-xl mb-2 md:mb-3 fot-semibold"><a href={link} target="_blank" rel="noreferrer">{title}</a></h3>
                 <span className="inline-block px-3 py-1 my-2 font-semibold border-2 border-stone-900 rounded-md text-black bg-yellow-500 hover:bg-cyan-600">  
-   {/* ### View the code in github ### */}
+
+ 
                         <h6><a href={git} target="_blank" rel="noreferrer">View Code </a></h6>
                 </span>
                 

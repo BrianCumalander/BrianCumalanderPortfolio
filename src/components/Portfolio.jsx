@@ -1,8 +1,9 @@
 import portfolio from '../data/portfolio'
 import PortfolioItem from './PortfolioItem'
 
-// Loops through portfolio.js to display each project, also passing data fields.
-// Display formatting of the cards including margins is done here as well.
+{ /* Loops through portfolio.js to display each project, also passing data fields.
+      Display formatting of the cards including margins is done here as well.
+*/ }
 
 function Portfolio() {
     return(
