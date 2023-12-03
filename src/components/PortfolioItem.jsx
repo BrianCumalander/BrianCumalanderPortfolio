@@ -1,12 +1,15 @@
 
+
 // Template / format of the individual project card. This file does not populate the data, that is done in Portfolio.jsx. Margins are also defined in Portfolio.jsx
 
 function PortfolioItem({ title, imgUrl, stack, link, git }) {
+
     return(
-        <div className="border-2 border-stone-900 rounded-md ">
+
+    <div className="border-2 border-stone-900 rounded-md overflow-hidden">
 
     {/* ### Link to live project ### */}
-            <a href={link} target="_blank" rel="noreferrer">
+            <a href={link} target="_blank" rel="noopener noreferrer">
 
     {/* ### Image of live project ### */}
                 <img 
@@ -19,13 +22,17 @@ function PortfolioItem({ title, imgUrl, stack, link, git }) {
             <div className="w-full p-4">
     {/* ### Project title which also takes you to the live project (link) ### */}
                 <h3 className="text-lg md:text-xl mb-2 md:mb-3 fot-semibold"><a href={link} target="_blank" rel="noreferrer">{title}</a></h3>
-                <span className="inline-block px-3 py-1 my-2 font-semibold border-2 border-stone-900 rounded-md text-black bg-yellow-500 hover:bg-cyan-600">  
 
- 
-                        <h6><a href={git} target="_blank" rel="noreferrer">View Code </a></h6>
-                </span>
-                
-                <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm">
+                <a href={link} target="_blank" rel="noreferrer">
+                    <button type="button" className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-4 py-2.5 text-center me-2 mb-2">View Live Project</button>
+                    </a>
+                <a href={git} target="_blank" rel="noreferrer">
+                    <button type="button" className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-4 py-2.5 text-center me-2 mb-2">View Code on GitHub</button>
+                </a>
+
+
+
+                 <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm">
     {/* ### tech stack used such as HTML, CSS, JavaScript, loops through the array defined in portfolio.js ### */}
                     {stack?.map(item => (
                     // eslint-disable-next-line react/jsx-key
@@ -37,6 +44,8 @@ function PortfolioItem({ title, imgUrl, stack, link, git }) {
                 
             </div>
         </div>
+
+
     )
 }
  
