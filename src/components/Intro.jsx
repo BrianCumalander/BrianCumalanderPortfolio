@@ -9,7 +9,7 @@ function Intro() {
             <p className="text-sm max-w-xl mb-6 font-bold">
                 
             
-            I have skills in HTML, CSS, Tailwind, SCSS, JavaScript, TypeScript, Node.JS, React.JS, Vite.js, Express.JS, Recharts.JS, gitHub, mySQL, Hooks, and fetching content from API{"'"}s.
+            I have skills in HTML, CSS, Tailwind, SCSS, JavaScript, TypeScript, Node.JS, React.JS, Vite.js, Express.JS, Recharts.JS, gitHub, mySQL, Hooks, and API content fetching..
             
             </p>
         </div>
