@@ -10,7 +10,7 @@ export default [
         year: "Intrest in programming",
         title: "...developed a script saving weeks worth of manual labor!",
         duration: "",
-        details: "Co-wrote a command line script that gathered various information about each department's users, enabling the IT Team to quickly deploy 300+ computer upgrades in days, not weeks!"
+        details: "Co-wrote a command line script that gathered various information about each department's users, enabling us to quickly deploy 300+ computer upgrades in days, not weeks!"
     },
     {
         year: "Early Career",
