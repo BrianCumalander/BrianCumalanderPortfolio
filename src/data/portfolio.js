@@ -4,7 +4,7 @@ export default [
         imgUrl: '/assets/tomatoes.webp',
         stack: ['HTML', 'CSS', 'PHP', 'MySQL'],
         git: 'https://github.com/BrianCumalander/tomatoes',
-        link: 'none',
+        link: 'http://photodub.biz.nf/tomatoes/index.php',
     },
     {
         title: 'React Movies',
