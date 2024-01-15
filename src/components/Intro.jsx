@@ -8,7 +8,7 @@ function Intro() {
 
 
                 I have skills in HTML, CSS, Tailwind, SCSS, JavaScript, TypeScript, Node.JS, React.JS, Vite.js, Express.JS, Recharts.JS, gitHub, mySQL, Hooks, and fetching content from API{"'"}s.
-                Check out my <span className="underline decoration-blue-700"> <a href="https://github.com/BrianCumalander">GitHub</a></span>, <span className="underline decoration-blue-700"> <a href="https://www.linkedin.com/in/brian-cumalander/">LinkedIn</a></span>, or my <span className="underline decoration-blue-700"> <a href="http://photodub.biz.nf/assets/BrianCumalanderResume.pdf"> Resume</a></span>.
+                Check out my <span className="underline decoration-blue-700"> <a href="https://github.com/BrianCumalander">GitHub</a></span>, <span className="underline decoration-blue-700"> <a href="https://www.linkedin.com/in/BrianCumalander/">LinkedIn</a></span>, or my <span className="underline decoration-blue-700"> <a href="http://photodub.biz.nf/assets/BrianCumalanderResume.pdf"> Resume</a></span>.
             </p>
         </div>
     )
