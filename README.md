@@ -3,6 +3,8 @@
 ## Run - NPM
 
 Run by using:
+vite preview
+or
  npm run dev
 or
  npm run build

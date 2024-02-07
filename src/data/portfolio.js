@@ -1,4 +1,11 @@
 export default [
+       {
+        title: 'Tomato Counter',
+        imgUrl: '/assets/tomatoes.webp',
+        stack: ['HTML', 'CSS', 'PHP', 'MySQL'],
+        git: 'https://github.com/BrianCumalander/tomatoes',
+        link: 'http://photodub.biz.nf/tomatoes/index.php',
+    },
     {
         title: 'React Movies',
         imgUrl: '/assets/movies.webp',
@@ -6,15 +13,6 @@ export default [
         git: 'https://github.com/BrianCumalander/react-movie-db',
         link: 'https://briancumalander-react-movie-db.netlify.app',
     },
-
-    {
-        title: 'Tomato Counter',
-        imgUrl: '/assets/tomatoes.webp',
-        stack: ['HTML', 'CSS', 'PHP', 'MySQL'],
-        git: 'https://github.com/BrianCumalander/tomatoes',
-        link: 'none',
-    },
-
     {
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.webp',
