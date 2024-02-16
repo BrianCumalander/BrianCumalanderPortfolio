@@ -4,7 +4,7 @@ import Footer from "../components/Footer"
 import Portfolio from "../components/Portfolio"
 import Timeline from "../components/Timeline"
 import Contact from "../components/Contact"
-// import { Form } from "react-hook-form"
+
 
 function Home() {
   return (
@@ -14,7 +14,6 @@ function Home() {
         <Portfolio />
         <Timeline />
         <Contact />
-        {/* <Form /> */}
         <Footer />
       </div>
     </div>
