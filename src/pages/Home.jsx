@@ -3,7 +3,7 @@ import Intro from "../components/Intro"
 import Footer from "../components/Footer"
 import Portfolio from "../components/Portfolio"
 import Timeline from "../components/Timeline"
-import Contact from "../components/Contact"
+// import Contact from "../components/Contact"
 
 
 function Home() {
@@ -13,7 +13,7 @@ function Home() {
         <Intro />
         <Portfolio />
         <Timeline />
-        <Contact />
+        {/* <Contact /> */}
         <Footer />
       </div>
     </div>
