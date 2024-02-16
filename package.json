@@ -13,7 +13,9 @@
     "axios": "^1.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.17.0"
+    "react-hook-form": "^7.50.1",
+    "react-router-dom": "^6.17.0",
+    "vite-plugin-pages": "^0.32.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
