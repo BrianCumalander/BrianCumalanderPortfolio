@@ -1,18 +1,5 @@
 # React + Vite
 
-## Run - NPM
+#Full Stack Developer
 
-Run by using:
-vite preview
-or
- npm run dev
-or
- npm run build
-
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Versatile professional with 16+ years of experience as an effective field engineer, demonstrating expertise in problem-solving, meticulous attention to detail, and exceptional customer service. Transitioning to a Software Engineer role with proficiency in HTML, JavaScript, CSS, SCSS, TailwindCSS, Git, GitHub, PHP, TypeScript, Node.js, React.js, Vite.js, Express.js, MySQL, Hooks, and API content fetching.
