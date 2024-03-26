@@ -1,4 +1,4 @@
-
+// received too much spam, so I remove this form.
 
 function Contact() {
    return (
