@@ -16,6 +16,6 @@ export default [
         year: "Early Career",
         title: "Field Service Technician",
         duration: "",
-        details: "For over 19 years I have been a field service technician with a keen eye for detail and customer service. I  have supported desktops, laptops, printers, servers, network devices and point of sale equipment."
+        details: "Field service technician with a keen eye for detail and customer service. I  have supported desktops, laptops, printers, servers, network devices and point of sale equipment."
     },
 ]
