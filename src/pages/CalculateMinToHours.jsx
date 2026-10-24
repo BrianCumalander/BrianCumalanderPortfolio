@@ -1,3 +1,13 @@
+
+// About this page:
+//
+// The actual content is in components/CalcMinToHrs.jsx.
+// 
+// This page that you are reading right now is simply to place the above file component within the page as shown below between the <div>'s. 
+//
+//
+
+
 // Components
 import CalcMinToHrs from "../components/CalcMinToHrs"
 

@@ -1,4 +1,10 @@
-// this will be the actual calculator
+// 
+// About this page:
+//
+// This component calculates the minutes you enter in to hours, such as 105 minutes equals how many hours? The answer will be 1.75 hours, etc..
+//
+//
+
 
 
 import { useState, useEffect } from "react";
